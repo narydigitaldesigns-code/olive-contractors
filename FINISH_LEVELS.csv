@@ -1,0 +1,5 @@
+finish_level_id,label,multiplier,description
+Basic,Basic,0.95,"Stock materials, limited customization"
+Standard,Standard,1,"Typical good quality, what you normally recommend"
+Premium,Premium,1.2,"Higher-end materials, more customization"
+Luxury,Luxury,1.3,"Custom millwork, high-end fixtures, feature walls, etc."

@@ -1,0 +1,4 @@
+complexity_id,label,multiplier,description
+none,No structural changes,1,Existing walls stay
+moderate,Moderate structural,1.1,"One or two walls, lintels, minor beams"
+major,Major structural,1.25,"New beams, point loads, re-framing, underpinnings"

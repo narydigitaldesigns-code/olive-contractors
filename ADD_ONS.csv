@@ -1,0 +1,38 @@
+addon_id,project_type_id,name,pricing_type,low,high,notes
+Bathroom,,,,,,
+in_floor_heat,bathroom_standard,In-floor heating,per_sqft,15,20,Heated floor area only
+curbless_shower,bathroom_standard,Curbless shower system,flat,2000,5000,"Slope, waterproofing, glass excluded"
+custom_vanity,bathroom_standard,Custom vanity / millwork,flat,1500,3000,Custom built vanity
+Exhaust_install,bathroom_standard,Exhaust pipe installation,flat,800,1200,If the exhaust pipe and fan are to be installed
+Smart_toilet,bathroom_standard,Smart toilet installation,flat,1200,1600,For a smart toilet and installation
+new_outlets,bathroom_standard,New electrical outlets or electrical work,flat,500,1000,For minor electrical work and wiring
+,,,,,,
+Kitchen,,,,,,
+kitchen_island,kitchen_standard,Kitchen island installation,flat,5000,8000,Standard island with countertop and sink
+LED_lighting,kitchen_standard,LED accent lighting,flat,1000,1500,Accent LED lighting and wiring
+exhaust_fan,kitchen_standard,New exhaust fan piping,flat,1000,2000,Piping for hood exhaust through walls
+,,,,,,
+Basement,,,,,,
+basement_bathroom,basement_finish,Full basement bathroom,flat,10000,15000,With standard finishes
+basement_powderroom,basement_finish,Full basement powder room,flat,8000,11000,With standard finishes
+wet_bar,basement_finish,Wet bar / kitchenette,flat,8000,15000,Excluding appliances
+basement_walkout,basement_finish,Basement walkout door and stairs,flat,25000,30000,Standard concrete stairs and railing
+electrical_upgrades,basement_finish,Electrical wiring and upgrades,flat,10000,15000,Upgrading wiring and electrical panel
+permit,basement_finish,Permit allowance,flat,2500,3500,Permit allowance and drawings
+fire_separation,basement_finish,Fire separation in the ceiling,flat,8000,12000,"Fireproof insulation, resilient channel, and type X drywall"
+basement_window,basement_finish,Egress basement window,per_unit,2000,3000,Standard stock basement window and window well
+,,,,,,
+Main Floor,,,,,,
+main_floor_bathroom,main_floor_reno,Full basement bathroom,flat,10000,15000,With standard finishes
+main_floor_powderroom,main_floor_reno,Full basement powder room,flat,9000,12000,With standard finishes
+electrical_upgrades,main_floor_reno,Electrical wiring and upgrades,flat,15000,20000,Upgrading wiring and electrical panel
+permit,main_floor_reno,Permit allowance,flat,2500,3500,Permit allowance and drawings
+fire_separation,main_floor_reno,Fire separation in the ceiling or walls,flat,8000,12000,"Fireproof insulation, resilient channel, and type X drywall"
+new_heating_cooling,main_floor_reno,New central HVAC system and ductwork,flat,18000,23000,New HVAC system with mech. units and ductwork
+,,,,,,
+Full House,,,,,,
+additional_bathroom,full_house_reno,Full bathroom renovation,flat,10000,15000,With standard finishes
+electrical_upgrades,full_house_reno,Electrical wiring and upgrades,flat,20000,25000,Upgrading wiring and electrical panel
+permit,full_house_reno,Permit allowance,flat,3000,4000,Permit allowance and drawings
+fire_separation,full_house_reno,Fire separation in the ceiling or walls,flat,8000,12000,"Fireproof insulation, resilient channel, and type X drywall"
+new_heating_cooling,full_house_reno,New central HVAC system and ductwork,flat,20000,25000,New HVAC system with mech. units and ductwork

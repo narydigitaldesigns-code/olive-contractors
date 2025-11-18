@@ -1,0 +1,9 @@
+Key,Value,Notes
+currency,CAD,Always show prices in CAD
+location_default,Toronto / GTA,Default region
+default_contingency_percent,10,Added to all rough budgets
+default_contractor_markup_percent,25,Your margin
+design_allowance_percent,10,If applicable
+demo_allowance_per_sqft,10,Basic demolition per sq.ft
+permits_small_reno_flat,3000,Typical simple permit + drawings allowance
+permits_addition_start,8000,Starting point for additions / major structural

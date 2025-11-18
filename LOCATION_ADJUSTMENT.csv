@@ -1,0 +1,7 @@
+﻿project_type_id,name,description,base_cost_per_sqft_low,base_cost_per_sqft_high,min_project_cost,notes
+bathroom_standard,Bathroom renovation,"Full gut, new fixtures, basic-mid finishes",300,500,12000,"3-piece, 35–60 sq.ft"
+kitchen_standard,Kitchen renovation,"Standard kitchen, mid-range appliances excluded",250,350,20000,80–180 sq.ft
+basement_finish,Basement finishing,"Framing, insulation, drywall, flooring, basic bathroom rough-in",80,140,40000,"Unfinished basement, 600–1200 sq.ft"
+main_floor_reno,Main floor renovation,"Non-structural, flooring, paint, basic kitchen refresh",120,220,45000,Assumes no major layout change
+full_house_reno,Full house renovation,Full interior renovation including main floor + basement,150,260,120000,"Includes flooring, drywall, paint, lighting, kitchen & 1–2 bathrooms (standard finishes). Assumes no major layout changes; excludes structural beams, moving load-bearing walls, additions."
+addition_basic,Addition / extension,One-storey addition over existing or at-grade,300,450,100000,"Very rough, highly variable"
